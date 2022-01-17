@@ -6,5 +6,6 @@ public class TestThree {
     public void testThree() {
         Assert.assertEquals((3 + 3), 6);
         Assert.assertEquals((3 + 3), 6);
+        Assert.assertEquals((3 + 3), 6);
     }
 }
